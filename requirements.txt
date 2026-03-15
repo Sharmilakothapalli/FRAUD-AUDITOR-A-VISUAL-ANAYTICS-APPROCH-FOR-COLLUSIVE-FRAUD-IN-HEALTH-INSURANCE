@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+networkx
+python-multipart
+# visualization is frontend (vis.js), backend just sends JSON graph data
